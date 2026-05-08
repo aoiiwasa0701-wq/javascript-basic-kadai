@@ -20,7 +20,7 @@ bmi=(weight/(height*height))
 
 
 
-console.log(weight/(height*height));
+console.log(bmi);
 
 
 
