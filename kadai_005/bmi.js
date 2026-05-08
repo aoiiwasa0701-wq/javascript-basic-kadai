@@ -1,18 +1,21 @@
 let weight;
+weight=68
 
-weight='体重';
+
+
 
 let height;
+height=1.7
 
-height='身長';
+
+
 
 let bmi;
+bmi=(weight/(height*height))
 
-bmi='体格指数';
 
-weight=68;
 
-height=1.7;
+
 
 
 
