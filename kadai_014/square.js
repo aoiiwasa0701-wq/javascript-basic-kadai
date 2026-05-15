@@ -1,6 +1,5 @@
 const constant = (num) => {
-    console.log(num*num);
-
+    return num*num;
 }
 
-constant(10);
+console.log(constant(10));
